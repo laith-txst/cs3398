@@ -1,1 +1,3 @@
-# cs3398
+# CS 3398
+
+This is a repository.
